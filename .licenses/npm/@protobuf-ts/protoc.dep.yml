@@ -1,6 +1,10 @@
 ---
 name: "@protobuf-ts/protoc"
+<<<<<<< HEAD
 version: 2.9.5
+=======
+version: 2.9.6
+>>>>>>> 39bc86a (upgrade actions/cache to 4.0.3)
 type: npm
 summary: Installs the protocol buffer compiler "protoc" for you.
 homepage: https://github.com/timostamm/protobuf-ts

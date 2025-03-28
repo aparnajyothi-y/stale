@@ -1,6 +1,10 @@
 ---
 name: "@actions/cache"
+<<<<<<< HEAD
 version: 4.0.2
+=======
+version: 4.0.3
+>>>>>>> 39bc86a (upgrade actions/cache to 4.0.3)
 type: npm
 summary: Actions cache lib
 homepage: https://github.com/actions/toolkit/tree/main/packages/cache

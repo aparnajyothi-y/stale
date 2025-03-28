@@ -1,10 +1,14 @@
 ---
 name: "@protobuf-ts/plugin-framework"
+<<<<<<< HEAD
 version: 2.9.5
+=======
+version: 2.9.6
+>>>>>>> 39bc86a (upgrade actions/cache to 4.0.3)
 type: npm
 summary: framework to create protoc plugins
 homepage: https://github.com/timostamm/protobuf-ts
-license: apache-2.0
+license: other
 licenses:
 - sources: LICENSE
   text: |2
